@@ -12,36 +12,36 @@ dependencies:
     src: "htmlwidgets/lib/highcharts-7.0.1"
     script:
     - highcharts.js
-    - highcharts-3d.js
+#    - highcharts-3d.js
     - highcharts-more.js
-    - modules/stock.js
-    - modules/map.js
+#    - modules/stock.js
+#    - modules/map.js
     - modules/annotations.js
     - modules/boost.js
     - modules/data.js
-    - modules/drag-panes.js
-    - modules/drilldown.js
+#    - modules/drag-panes.js
+#    - modules/drilldown.js
     - modules/item-series.js
     - modules/offline-exporting.js
     - modules/overlapping-datalabels.js
     - modules/exporting.js
     - modules/export-data.js
-    - modules/funnel.js
-    - modules/heatmap.js
-    - modules/treemap.js
-    - modules/sankey.js
-    - modules/solid-gauge.js
-    - modules/streamgraph.js
-    - modules/sunburst.js
+#    - modules/funnel.js
+#    - modules/heatmap.js
+#    - modules/treemap.js
+#    - modules/sankey.js
+#    - modules/solid-gauge.js
+#    - modules/streamgraph.js
+#    - modules/sunburst.js
     - modules/vector.js
-    - modules/wordcloud.js
+#    - modules/wordcloud.js
     - modules/xrange.js 
-    - modules/tilemap.js
-    - modules/venn.js
-    - modules/gantt.js
+#    - modules/tilemap.js
+#    - modules/venn.js
+#    - modules/gantt.js
     - modules/timeline.js
     - modules/parallel-coordinates.js
-    - modules/bullet.js
+#    - modules/bullet.js
 #    - modules/static-scale.js
 #    - modules/grid-axis.js
 #    - modules/broken-axis.js
